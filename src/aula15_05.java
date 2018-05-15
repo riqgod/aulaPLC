@@ -12,15 +12,6 @@ public class aula15_05 {
 		(new Thread(new RandomThread(guileam))).start();
 		(new Thread(new RandomThread(guileam))).start();
 		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
-		(new Thread(new RandomThread(guileam))).start();
 		
 		
 		int t = 9;
